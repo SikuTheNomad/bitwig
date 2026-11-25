@@ -1,5 +1,5 @@
 # Themes
-#### by [Siku](https://siku.studio)
+#### by [Siku the Nomad](https://sikuthenomad.com)
 Still trying to figure out a few things, but it's about 85% done.
 
 ![Screenshot](screenshot.png)
