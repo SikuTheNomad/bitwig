@@ -16,7 +16,7 @@ const PAGE_AMOUNT = 9
 /* ------------------------------------------------------ */
 /*                    DEBUGGING FEATURE                   */
 /* ------------------------------------------------------ */
-var DEBUG = true
+var DEBUG = false
 
 function debug(bool = false) {
    DEBUG = bool
